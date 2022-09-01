@@ -1,0 +1,1 @@
+A Simple OTP Generator using JavaScript showing random 6 digits.
